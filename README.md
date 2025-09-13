@@ -12,9 +12,9 @@
 
                         ✉️ anushri387@gmail.com
 
-                        🔗 LinkedIn - 
+                        🔗 LinkedIn - linkedin.com/in/anushree-chourasiya-370bb0252/
 
-                        💻 GitHub -
+                        💻 GitHub - github.com/anu070803
 
 🎓 Education -  B.Tech in Computer Science & Engineering – Shri Ram Institute of Science and Technology (CGPA: 8.04), Jabalpur.
 
