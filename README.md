@@ -16,7 +16,8 @@
 
                         💻 GitHub - github.com/anu070803
 
-🎓 Education -  B.Tech in Computer Science & Engineering – Shri Ram Institute of Science and Technology (CGPA: 8.04), Jabalpur.
+🎓 Education -  B.Tech in Computer Science & Engineering – Shri Ram Institute of Science and Technology
+   (CGPA: 8.04), Jabalpur.
 
 🛠️ Technical Skills - Java, C, HTML, CSS, JavaScript 
 
